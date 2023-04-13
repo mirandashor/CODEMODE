@@ -1,4 +1,3 @@
-introduce what your project is about, and how to run/use your application, etc. 
 
 CODE MODE is designed to teach you the coding language JavaScript in a simple and easy to follow way. 
 
